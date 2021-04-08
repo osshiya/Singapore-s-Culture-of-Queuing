@@ -23,8 +23,8 @@ The yellow notes on top will reveal some tips and guides to queuing etiquettes.
 ## Platforms/ Hardware required:
 › Laptop.
 › Internet Browser (Internet Explorer/ Google Chrome/ Mozilla Firefox/ Safari/ Opera).
-Limitations/Bugs in the Application:
 
+## Limitations/Bugs in the Application:
 › Drag and drop cannot be returned for reuse.
 › No Y-Axes for Bar Chart.
 
