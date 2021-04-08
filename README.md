@@ -1,5 +1,8 @@
 # Singapore-s-Culture-of-Queuing
 
+- [GitHub](https://github.com/osshiya/Singapore-s-Culture-of-Queuing.git)
+- [GitHub Pages](https://osshiya.github.io/Singapore-s-Culture-of-Queuing/)
+
 ## How to use:
 In the first section, it is an introduction page where the topic is introduced. There is an animated
 arrow that will direct the user to the second section of the website.
